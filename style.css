@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 65%;
+    margin: auto;
+}
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(202, 214, 210);
+}
